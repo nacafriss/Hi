@@ -1,5 +1,2 @@
-# Hai
-tugas kader
-
-Haloooww....
-Aku friska.
+# About me
+Aku friska. 
